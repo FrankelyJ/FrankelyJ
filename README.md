@@ -1,0 +1,2 @@
+- Bienvenido! Soy @FrankelyJ
+- Soy un programador básico en lenguajes como PHP y SQL.
